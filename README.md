@@ -58,10 +58,6 @@
 
 ## 📊 GitHub Stats
 
-![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amol9934&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amol9934&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amol9934)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amol9934)
