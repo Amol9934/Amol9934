@@ -56,4 +56,26 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+## 📊 GitHub Stats
 
+![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amol9934&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amol9934&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amol9934)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amol9934)
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amol-kumar-3522a6330)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:revelamol@gmail.com)
+
+
+<h2 align="center">💡 Favorite Quote</h2>
+
+<p align="center">
+⭐ <i>"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."</i> <br>
+— <b>Ernest Hemingway</b>
+</p>
