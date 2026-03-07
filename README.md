@@ -58,9 +58,10 @@
 
 ## 📊 GitHub Stats
 
-![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amol9934&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amol9934&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Amol9934&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol9934&layout=compact&theme=tokyonight"/>
+</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amol9934)
 
