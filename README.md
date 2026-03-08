@@ -23,9 +23,8 @@
 # 🧠 AI Animation
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-4bfa5c2e-0a3c-44b3-9c45-9f8b7f7f1f96.gif" width="400">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 </p>
-
 ---
 
 # 🚀 Tech Stack
