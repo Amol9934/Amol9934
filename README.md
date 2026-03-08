@@ -69,9 +69,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:revelamol@gmail.com)
 
 
-<h2 align="center">💡 Favorite Quote</h2>
+## 💡 Daily Developer Quote
 
 <p align="center">
-⭐ <i>"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."</i> <br>
-— <b>Ernest Hemingway</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
