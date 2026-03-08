@@ -23,7 +23,7 @@
 # 🧠 AI Animation
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N1Z3hvdmYyY3g1d2h2cTRnNGh0eXk1M2p2cG1ybHFlcHRkZnNqeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 </p>
 
 <p align="center">
