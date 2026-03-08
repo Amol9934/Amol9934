@@ -83,7 +83,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Amol9934/Amol9934/blob/output/github-contribution-grid-snake.svg)
 
