@@ -23,11 +23,7 @@
 # 🧠 AI Animation
 
 <p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F72D,100:0f2027&height=200&section=header&text=Amol%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 # 🚀 Tech Stack
